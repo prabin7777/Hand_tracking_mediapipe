@@ -2,3 +2,4 @@
 requirments:
 opencv.
 mediapipe.
+.....
